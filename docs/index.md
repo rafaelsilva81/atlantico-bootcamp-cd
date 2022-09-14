@@ -1,7 +1,6 @@
 # Início
 
 
-
 ## Contextualização
 
 Contexto necessário para entender o problema a ser abordado.
